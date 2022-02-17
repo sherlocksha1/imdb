@@ -45,7 +45,7 @@ async def start(bot, message):
                 ident, file_id = message.text.split("_-_-_-_")
                 await bot.send_message(
                     chat_id=message.from_user.id,
-                    text="**Please Join My Updates Channel to use this Bot!**",
+                    text="**നിങ്ങൾക്ക് സിനിമ കിട്ടണമെങ്കിൽ താഴെക്കാണുന്ന 📢 Join Updates Channel 📢 എന്നത് ക്ലിക്ക് ചെയ്ത് Join ചെയ്ത് തിരികെ വന്ന് Try Again കൊടുത്ത ശേഷം സിനിമ കിട്ടുന്നതാണ്💯 ( പിന്നീട് വീണ്ടും ഇങ്ങനെ  ചെയ്യേണ്ട ആവിശ്യം ഇല്ല 👍 )**",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
@@ -99,7 +99,7 @@ async def start(bot, message):
         invite_link = await bot.create_chat_invite_link(int(AUTH_CHANNEL))
         await bot.send_message(
             chat_id=message.from_user.id,
-            text="**Please Join My Updates Channel to use this Bot!**",
+            text="**നിങ്ങൾക്ക് സിനിമ കിട്ടണമെങ്കിൽ താഴെക്കാണുന്ന 📢 Join Updates Channel 📢 എന്നത് ക്ലിക്ക് ചെയ്ത് Join ചെയ്ത് തിരികെ വന്ന് movie യുടെ name ഇട്ടാല്‍ സിനിമ കിട്ടുന്നതാണ്💯**",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
