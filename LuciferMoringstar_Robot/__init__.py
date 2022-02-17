@@ -30,12 +30,12 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [GROUP](
+https://t.me/new_movies_group_2021)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](https://t.me/new_movies_group_2021)
 """
