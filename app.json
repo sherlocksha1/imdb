@@ -36,7 +36,7 @@
             "required": false
         },
         "IMDB_TEMPLATE": {
-            "description": "Imdb, the view of information when making True/False ",
+            "description": "Imdb, template ",
             "value": "workgooys",
             "required": false
         },
