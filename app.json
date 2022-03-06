@@ -30,6 +30,11 @@
             "description": "Get this value from https://my.telegram.org",
             "value": ""
         },
+        "IMDB": {
+            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "value": "True",
+            "required": false
+        },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
             "value": ""
