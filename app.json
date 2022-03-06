@@ -31,8 +31,13 @@
             "value": ""
         },
         "IMDB": {
-            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "description": "Imdb, the view of information when making True/False ",
             "value": "True",
+            "required": false
+        },
+        "IMDB_TEMPLATE": {
+            "description": "Imdb, the view of information when making True/False ",
+            "value": "workgooys",
             "required": false
         },
         "CHANNELS": {
