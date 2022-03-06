@@ -63,6 +63,11 @@
             "value": "True",
             "required": false
         },
+        "P_TTI_SHOW_OFF": {
+            "description": "Customize Result Buttons to Callback or Url by (True = url / False = callback)",
+            "value": "True",
+            "required": false    
+        },
         "START_MSG": {
             "description": "Welcome message for start command",
             "value": "**Hi, I'm Auto Filter Bot With Greater Abilities**",
